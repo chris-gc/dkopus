@@ -1,6 +1,6 @@
 require.config({ 
-    jQuery: '1.8.2',
+    jQuery: '1.7.2',
     paths: {
-        'jquery': 'jquery-1.8.2'
+        'jquery': 'jquery-1.7.2'
     },
 });
