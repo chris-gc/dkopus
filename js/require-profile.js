@@ -8,7 +8,7 @@
 ({
     baseUrl: 'js',
     appDir: '../',
-    dir: '../../requirejs-jquery-build',
+    dir: '../requirejs-jquery-build',
     optimize: 'none', // So you can see how the files are concatenated.
     mainConfigFile: 'require-config.js',
     fileExclusionRegExp: /^\.|node_modules/,
