@@ -6,5 +6,5 @@ So far this is a framework for writing browser JavaScript with RequireJS, jQuery
 
 ./final_compile.sh -- Full compile ./js/* into ./js/land.min.js with minification (also CSS)
 
-./compile_css.sh -- Run compass on ./css/
+These scripts place the output in ./site/, ready for hosting.
 
