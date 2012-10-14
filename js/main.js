@@ -1,5 +1,5 @@
 require(['jquery'], function($) {
     $(function() {
-        $('body') = "WORKS";
+		window.alert("WORKS");
     });
 });

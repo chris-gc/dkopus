@@ -1,5 +1,6 @@
 compass compile css
 
+rm -rf requirejs-jquery-build
 cd js
 r.js -o require-profile.js
 cd ..
